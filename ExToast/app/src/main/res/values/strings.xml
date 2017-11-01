@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExToast</string>
+
+    <!-- Variável para Toast -->
+    <string name="toast_message">Olá, mensagem enviada via Toast internacionalizada!</string>
+    <string name="long_toast_message">Olá, mensagem enviada via Toast com tempo de duração maior!</string>
+</resources>
