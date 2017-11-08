@@ -12,3 +12,9 @@ Ordem de aprendizagem:
 2 - Entender ciclo de vida da aplicação
 
 - ExCicloDeVida
+
+3 - Entender os principais eventos onClick e onLongClick
+
+- ExEventoBotaoOnClickOnLongClick
+- ExEventoBotaoOnClickOnLongClickLateInit
+
