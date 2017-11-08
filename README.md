@@ -18,3 +18,6 @@ Ordem de aprendizagem:
 - ExEventoBotaoOnClickOnLongClick
 - ExEventoBotaoOnClickOnLongClickLateInit
 
+4 - Entender como receber dados do usuário
+
+- ExEntradaDeDadosEdittext
