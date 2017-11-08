@@ -3,7 +3,6 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 26
-    buildToolsVersion "26.0.0"
     defaultConfig {
         applicationId "thiagocury.eti.br.exsnackbar"
         minSdkVersion 21
