@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
 
             /* alternativa -> chamar em apenas uma linha! */
             //startActivity<Tela2>()
-            
+
         }
     }
 }

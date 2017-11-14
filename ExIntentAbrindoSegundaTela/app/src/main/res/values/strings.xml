@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">ExIntentAbrindoSegundaTela</string>
 
-    <!-- Botão OK -->
+    <!-- Botão OK MainActivity -->
     <string name="btn_ok">OK</string>
+
+    <!-- Toast Tela 2 -->
+    <string name="toast_msg">Bem vindo a Tela 2</string>
 </resources>
