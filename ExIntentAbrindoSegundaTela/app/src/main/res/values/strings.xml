@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExIntentAbrindoSegundaTela</string>
+
+    <!-- Botão OK -->
+    <string name="btn_ok">OK</string>
+</resources>
