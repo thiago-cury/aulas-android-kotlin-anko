@@ -21,3 +21,9 @@ Ordem de aprendizagem:
 4 - Entender como receber dados do usuário
 
 - ExEntradaDeDadosEdittext
+
+5 - Entender diferença entre Intent Implicita x Explicita
+
+a - Explicita
+
+- ExIntentAbrindoSegundaTela
