@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExIntentSegundaTelaEnviandoObjeto</string>
+
+    <!-- Variaveis MainActivity -->
+    <string name="et_login">Login</string>
+    <string name="et_senha">Senha</string>
+    <string name="btn_ok">OK</string>
+    <string name="toast_msg_erro">Digite o(s) dado(s) corretamente!</string>
+
+    <!-- Toast Tela 2 -->
+    <string name="toast_msg">Bem vindo a Tela 2</string>
+</resources>
