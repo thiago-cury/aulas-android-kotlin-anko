@@ -27,3 +27,4 @@ Ordem de aprendizagem:
 a - Explicita
 
 - ExIntentAbrindoSegundaTela
+- ExIntentSegundaTelaEnviandoString
