@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
 
                 var usuario = Usuario()
                 usuario.sexo = spSexo.selectedItem.toString()
-                toast("$usuario.sexo")
+                toast("$usuario")
 
                 //Limpando a Spinner
                 spSexo.setSelection(0)
