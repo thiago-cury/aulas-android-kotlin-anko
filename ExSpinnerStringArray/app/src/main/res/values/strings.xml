@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExSpinnerStringArray</string>
+
+    <string name="btn_ok">OK</string>
+
+    <!-- Dados para popular a Spinner sexo -->
+    <string-array name="sp_sexo">
+        <item>Escolha um sexo</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
