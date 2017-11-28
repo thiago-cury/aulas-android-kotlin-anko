@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExListViewStringArray</string>
+
+    <!-- Array de String de recursos -->
+    <string-array name="sp_clientes">
+        <item>José</item>
+        <item>Maria</item>
+        <item>Fernanda</item>
+        <item>Julio</item>
+        <item>Clara</item>
+        <item>Manuel Santos</item>
+    </string-array>
+
+</resources>
