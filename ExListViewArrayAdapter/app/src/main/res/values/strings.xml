@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExListViewArrayAdapter</string>
+
+    <!-- Variáveis -->
+    <string name="btn_ok">OK</string>
+    <string name="et_nome">Nome</string>
+
+</resources>
