@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExRecyclerViewCardViewCliente</string>
+
+    <!-- Variáveis Main Activity -->
+    <string name="et_nome">Nome</string>
+    <string name="et_renda">Renda</string>
+    <string name="btn_ok">OK</string>
+
+    <string name="toast_sucesso">Cliente cadastrado com sucesso</string>
+
+    <string-array name="sp_sexo">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
