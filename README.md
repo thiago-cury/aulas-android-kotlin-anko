@@ -40,6 +40,10 @@ a - Explicita
 - ExListViewStringArray
 - ExListViewArrayAdapter
 
+8 Entender como utilizar a RecyclerView com Adapter Customizada + CardView
+
+- ExRecyclerViewCliente + CardView
+
 
 
 
