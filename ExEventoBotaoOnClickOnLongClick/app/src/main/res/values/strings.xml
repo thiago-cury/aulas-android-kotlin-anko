@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExEventoBotaoOnClickOnLongClick</string>
+
+    <string name="ma_bt_ok">OK</string>
+
+    <string name="ma_onclick_toast">Você clicou no botão! Evento onClick</string>
+    <string name="ma_onlongclick_toast">Você clicou e segurou o botão! Evento onLongClick</string>
+</resources>
