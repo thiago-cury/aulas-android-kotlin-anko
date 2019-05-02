@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExIntentSegundaTelaRetornandoObjeto</string>
+
+    <!-- Variaveis MainActivity -->
+    <string name="ma_bt_digitar_dados">Digitar dados</string>
+
+    <string name="ma_dados_nao_informados_erro">Dados não foram informados!</string>
+    <string name="ma_opcao_invalida_erro">Opção inválida!</string>
+
+    <!-- Variaveis Tela1 -->
+    <string name="t1_et_nome">Nome</string>
+    <string name="t1_et_idade">Idade</string>
+    <string name="t1_bt_ok">OK</string>
+    <string name="t1_bt_cancelar">Cancelar</string>
+
+    <string name="t1_et_nome_erro">Digite o nome!</string>
+    <string name="t1_et_idade_erro">Digite a idade!</string>
+
+</resources>
