@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExEventoBotaoOnClickOnLongClickLambda</string>
+
+    <!-- Variáveis Main Activity -->
+    <string name="ma_bt_ok">OK</string>
+
+    <string name="ma_toast_onclick">Você clicou no botão! Evento onClick</string>
+    <string name="ma_toast_onlongclick">Você clicou e segurou o botão! Evento onLongClick</string>
+</resources>
