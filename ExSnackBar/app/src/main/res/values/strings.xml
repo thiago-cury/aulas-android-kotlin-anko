@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExSnackBar</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ma_bt_snackbar">Snackbar</string>
+
+    <!-- Variável para o Snackbar -->
+    <string name="ma_snack_message">Olá, mensagem exibida via Snackbar internacionalizada!</string>
+    <string name="ma_long_snack_message">Olá, mensagem exibida via Snackbar internacionalizada com tempo maior de duração!</string>
+    <string name="ma_action_snack_message">Clique aqui!</string>
+    <string name="ma_action_title_snack_message">Snackbar com ação</string>
+    <string name="ma_answer_snack_message">Você clicou na Snackbar</string>
+</resources>
