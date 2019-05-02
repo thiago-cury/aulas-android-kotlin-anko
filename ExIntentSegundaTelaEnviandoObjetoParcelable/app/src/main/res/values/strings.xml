@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExIntentSegundaTelaEnviandoObjectoParcelable</string>
+
+    <!-- Variaveis MainActivity -->
+    <string name="ma_et_nome">Nome</string>
+    <string name="ma_et_idade">Idade</string>
+    <string name="ma_bt_ok">OK</string>
+
+    <string name="ma_et_nome_erro">Digite o nome!</string>
+    <string name="ma_et_idade_erro">Digite a idade!</string>
+
+    <!-- Toast Tela 1 -->
+    <string name="t1_toast_msg">Bem vindo a Tela 1</string>
+</resources>
