@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExSpinnerArrayAdapter</string>
+
+    <!-- Variáveis -->
+    <string name="bt_ok">OK</string>
+    <string name="et_nome">Nome</string>
+</resources>
