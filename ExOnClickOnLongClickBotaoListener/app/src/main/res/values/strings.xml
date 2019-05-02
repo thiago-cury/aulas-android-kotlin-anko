@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExOnClickOnLongClickBotaoListener</string>
+
+    <string name="ma_bt_1">Botão 1</string>
+    <string name="ma_bt_2">Botão 2</string>
+
+    <string name="ma_bt_1_onclick">Clicou no botão 1</string>
+    <string name="ma_bt_2_onclick">Clicou no botão 2</string>
+
+    <string name="ma_bt_1_onlongclick">Clicou e segurou no botão 1</string>
+    <string name="ma_bt_2_onlongclick">Clicou e segurou no botão 2</string>
+</resources>
