@@ -1,7 +1,7 @@
 package thiagocury.eti.br.exentradadedadosedittext
 
 /**
- * Created by thiagocury on 08/11/17.
+ * Created by thiagocury on 26/03/19.
  */
 
 //Primeira maneira sem construtor
@@ -15,15 +15,10 @@ class Cliente {
 }
 
 //Segunda maneira com construtor!
-/*class Cliente(nome:String){
-
-    val nome: String
-
-    init{
-        this.nome = nome
-    }
-
-    override fun toString(): String {
-        return "Nome $nome"
-    }
-}*/
+//class Cliente(var nome: String){
+//
+//    override fun toString(): String {
+//        return "Nome $nome"
+//    }
+//
+//}

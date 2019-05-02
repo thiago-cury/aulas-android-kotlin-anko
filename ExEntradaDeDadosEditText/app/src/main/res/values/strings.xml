@@ -2,6 +2,6 @@
     <string name="app_name">ExEntradaDeDadosEditText</string>
 
     <!-- Variáveis MainActivity -->
-    <string name="btn_ok">OK</string>
+    <string name="bt_ok">OK</string>
     <string name="et_nome">Nome</string>
 </resources>
