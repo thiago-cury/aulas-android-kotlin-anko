@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExIntentImplicitaAbrindoNavegador</string>
+
+    <!-- Main Acitivity -->
+    <string name="ma_et_url">Site</string>
+    <string name="ma_bt_navegador">Navegador</string>
+
+    <string name="ma_et_url_erro">Digite um site!</string>
+</resources>
