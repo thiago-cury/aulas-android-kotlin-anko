@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ExRecyclerView</string>
+
+    <!-- Variáveis Main Activity -->
+    <string name="ma_et_nome">Nome</string>
+    <string name="ma_et_renda">Renda</string>
+    <string name="ma_bt_ok">OK</string>
+
+    <string name="ma_et_nome_erro">Nome inválido</string>
+    <string name="ma_sp_sexo_erro">Escolha um sexo</string>
+    <string name="ma_et_renda_erro">Renda inválida</string>
+
+    <string name="ma_toast_sucesso">Cliente cadastrado com sucesso</string>
+
+    <string-array name="ma_sp_sexo">
+        <item>Escolha um sexo</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
